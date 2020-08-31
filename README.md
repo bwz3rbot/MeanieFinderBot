@@ -1,5 +1,5 @@
-# RedditBot Template for JavaScript
-Snoowrap mention messaging queue
+# Meanie Finder
+Uses sentiment analysis to find the meanest/nicest person in a specific thread when called.
 
 ## Table of Contents
 
